@@ -1,0 +1,6 @@
+customhost = "cc-project.c58v9jmj2zfs.us-east-1.rds.amazonaws.com"
+customuser = "cc_user"
+custompass = "cc_user_123"
+customdb = "employee"
+custombucket = "cc-project-april2022"
+customregion = "us-east-1"
