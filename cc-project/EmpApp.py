@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 from pymysql import connections
-import MySQLdb.cursors
+
+# import MySQLdb.cursors
 import boto3
 from config import *
 
